@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rosario:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+
+body{
+    min-height: 100vh;
+}
+.container{
+    min-height: 100vh;
+    font-family: 'Quicksand';
+    font-weight: 400;
+
+    h1{
+        color: #8FAAC3;
+        text-align: center;
+        height: 80px;
+        padding: 0.5em;
+        font-size: 80px;
+    }
+    @media screen and (max-width: 480px){
+       h1{
+           font-size: 45px;
+       } 
+    }
+    section{
+        min-height: 1150px;
+        width: 100%;
+        background-image: linear-gradient(45deg, #30cfd0 0%, #330867 100%);
+        font-family: 'Rosario';
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+    footer{
+        color: #8FAAC3;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        height: 80px;
+        font-size: 20px;
+        a{
+            color: inherit;
+            text-decoration: none;
+        }
+    }
+}
