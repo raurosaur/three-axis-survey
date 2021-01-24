@@ -6,13 +6,13 @@ Each question is followed by three options each with conservative, progressive o
 
 ## Description of Terms
 **Libertarianism**
-:A political philosophy and movement that upholds liberty as a core principle.\
+:A political philosophy and movement that upholds liberty as a core principle.
 
 **Conservatism**
-:A political and social philosophy promoting traditional social institutions.\
+:A political and social philosophy promoting traditional social institutions.
 
 **Progressivism**
-:A political philosophy in support of social reform.\
+:A political philosophy in support of social reform.
 
 
 ## Live Server Link: https://raurosaur.github.io/three-axis-survey/.

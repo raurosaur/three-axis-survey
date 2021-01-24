@@ -2,9 +2,9 @@
     {
         "question": "Late in 2012, in Newtown Connecticut, about two dozen school children were murdered in a shooting incident. In your initial reaction, what struck you the most was",
         "options" : [
-            "The need to reduce the power of the gun lobby",
             "The need for society to exert more control over the mentally ill",
-            "The need for teachers to be empowered and armed to fight back"
+            "The need for teachers to be empowered and armed to fight back",
+            "The need to reduce the power of the gun lobby"
         ],
         "answer": ["l", "c", "p"],
         "key": 1
@@ -12,9 +12,9 @@
     {
         "question": "In the latter half of 2012, UN Ambassador Susan Rice went on news programs as an Administration spokesperson and described the deaths of Americans at the Libyan consulate in Benghazi as resulting from a protest demonstration. People would share your outlook on this controversy if they paid more attention to the fact that",
         "options": [
-            "Susan Rice is a female African-American",
             "Islamic militants were to blame for the murders",
-            "Politicians were seeking to assign or deflect blame"
+            "Politicians were seeking to assign or deflect blame",
+            "Susan Rice is a female African-American"
         ],
         "answer": [
             "c",
@@ -26,9 +26,9 @@
     {
         "question": " In the 1940s, ordinary Germans participated in atrocities against Jews. In your view, what best explains this?",
         "options": [
-            "German anti-Semitism",
             "German civilization collapsed in the wake of World War I, reparations, and hyperinflation.",
-            "Germans operated under a totalitarian system of government"
+            "Germans operated under a totalitarian system of government",
+            "German anti-Semitism"
         ],
         "answer": [
             "l",
@@ -40,9 +40,9 @@
     {
         "question": " When the issue of changing the tax code comes up, what question comes to mind?",
         "options": [
-            "How will the change affect inequality?",
             "How will the change affect the reward that people get for hard work and thrift?",
-            "Does the government spend money more wisely than individuals?"
+            "Does the government spend money more wisely than individuals?",
+            "How will the change affect inequality?"
         ],
         "answer": [
             "c",
@@ -54,8 +54,8 @@
     {
         "question": "When Palestinians fired rockets from Gaza into Israel in 2011 and 2012, how did you regard the Palestinians?",
         "options": [
-            "The Palestinians are an oppressed people, and the rockets were a feeble gesture.",
             "The Palestinians have no respect for civilian life—either the Israelis’ or their own.",
+            "The Palestinians are an oppressed people, and the rockets were a feeble gesture.",
             "The Palestinians have been badly treated by the government of Israel, by Arab governments, by other nations, and by the UN."
         ],
         "answer": ["c", "p", "l"],
@@ -78,9 +78,9 @@
     {
         "question": "The wave of mortgage defaults known as the “sub-prime crisis” was caused by mortgage loans that were",
         "options": [
-            "Predatory",
             "Given to unqualified and undeserving borrowers",
-            "Government-Induced"
+            "Government-Induced",
+            "Predatory"
         ],
         "answer": [
             "c",
@@ -106,9 +106,9 @@
     {
         "question": "Since 9/11, Presidents have employed controversial powers, such as warrantless surveillance and targeted killing. Does this concern you?",
         "options": [
-            "I am more comfortable that these policies will be used judiciously by the Obama-Biden administration than by the Bush-Cheney administration.",
             "Because Islamist terrorism is such a difficult and dangerous problem, I basically support the use of these powers to protect the American people.",
-            "I am totally against the use of these powers."
+            "I am totally against the use of these powers.",
+            "I am more comfortable that these policies will be used judiciously by the Obama-Biden administration than by the Bush-Cheney administration."
         ],
         "answer": [
             "c",
