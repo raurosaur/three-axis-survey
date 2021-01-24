@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/three-axis-survey/static/css/main.ac57dc89.chunk.css",
+    "main.js": "/three-axis-survey/static/js/main.b404cf6d.chunk.js",
+    "main.js.map": "/three-axis-survey/static/js/main.b404cf6d.chunk.js.map",
+    "runtime-main.js": "/three-axis-survey/static/js/runtime-main.5179bc28.js",
+    "runtime-main.js.map": "/three-axis-survey/static/js/runtime-main.5179bc28.js.map",
+    "static/js/2.c0c4ad6e.chunk.js": "/three-axis-survey/static/js/2.c0c4ad6e.chunk.js",
+    "static/js/2.c0c4ad6e.chunk.js.map": "/three-axis-survey/static/js/2.c0c4ad6e.chunk.js.map",
+    "index.html": "/three-axis-survey/index.html",
+    "static/css/main.ac57dc89.chunk.css.map": "/three-axis-survey/static/css/main.ac57dc89.chunk.css.map",
+    "static/js/2.c0c4ad6e.chunk.js.LICENSE.txt": "/three-axis-survey/static/js/2.c0c4ad6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5179bc28.js",
+    "static/js/2.c0c4ad6e.chunk.js",
+    "static/css/main.ac57dc89.chunk.css",
+    "static/js/main.b404cf6d.chunk.js"
+  ]
+}
