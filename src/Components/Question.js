@@ -8,7 +8,7 @@ export default class Question extends Component{
                 <form>
                     {this.props.options.map((option, index) => (
                         <div key = {Math.random()}>
-                            <input name = 'group'type = 'radio' id = {option} key = {index} />
+                            <input name = 'group' type = 'radio' id = {option} key = {index} data-key = {index} required/>
                             <label htmlFor = {option}>{option}</label>
                         </div>
                     ))}

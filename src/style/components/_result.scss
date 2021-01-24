@@ -1,0 +1,78 @@
+.result{
+    display: grid;
+    height: 600px;
+    width: 1000px;
+    background: white;
+    border-radius: 30px;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
+    .label{
+        display: grid;
+        grid-template-columns: 150px 250px;
+        grid-template-rows:  repeat(3, 1fr);
+        place-items: center;
+        height: 600px;
+        width: 400px;
+        .box{
+            background: blue;
+            height: 75px;
+            width: 75px;
+            place-self: center end;
+        }
+        .box1{
+            background: #F00;
+        }
+        .box2{
+            background: #00A3FF;
+        }
+        .box3{
+            background: #E7DE0E;
+        }
+        .tag1, .tag2, .tag3{
+            display: grid;
+            place-items: center;
+            font-size: 30px;
+            height: 100px;
+            width: 300px;
+        }
+    }
+    svg{
+        height: 500px;
+        width: 500px;
+        border-radius: 30px;
+        margin-right: 150px;
+    }
+}
+
+@media screen and (max-width: 480px){
+    .result{
+        width: 350px;
+        height: 650px;
+        margin: 10px 0;
+        display: flex;
+        flex-direction: column;
+        .label{
+            height: 300px;
+            width: 100%;
+            .box{
+                height: 50px;
+                width: 50px;
+                place-self: center;
+            }
+        .tag1, .tag2, .tag3{
+            display: grid;
+            place-self: start;
+            place-items: center start;
+            font-size: 25px;
+            height: 100px;
+            width: 200px;
+        }           
+
+        }
+    svg{
+        height: 300px;
+        width: 300px;
+        margin: 20px 0px;
+    }
+    }
+}

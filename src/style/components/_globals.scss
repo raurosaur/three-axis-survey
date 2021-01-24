@@ -3,7 +3,6 @@
 *{
     margin: 0px;
     padding: 0px;
-    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
 }
 
 body{
@@ -27,7 +26,7 @@ body{
        } 
     }
     section{
-        min-height: 1150px;
+        min-height: 850px;
         width: 100%;
         background-image: linear-gradient(45deg, #30cfd0 0%, #330867 100%);
         font-family: 'Rosario';
@@ -35,6 +34,14 @@ body{
         flex-direction: column;
         justify-content: space-around;
         align-items: center;
+        button{
+            width: 200px;
+            height: 100px;
+            font-size: 40px;
+            margin: 10px;
+            border-radius: 20px;
+            background-color: white;
+        }
     }
     footer{
         color: #8FAAC3;
